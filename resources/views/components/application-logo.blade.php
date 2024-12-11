@@ -1,0 +1,1 @@
+<img src="{{ url('logo.png') }}" class="h-15 rounded-md"/>
